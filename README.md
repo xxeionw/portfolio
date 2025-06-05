@@ -1,75 +1,63 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hello I'm 이다현
 
-프론트엔드 개발자로서 사용자 경험(UX)을 최우선으로 생각하며,  
-React와 TypeScript를 기반으로 직관적이고 반응형 UI를 구현하는 데 집중하고 있습니다.
+딥러닝부터 라즈베리파이, 앱 개발, 웹 페이지 제작까지 다양한 분야의 프로젝트를 수행하며 프로그래밍의 재미와 문제 해결의 가치를 배워가고 있습니다.  
+현재는 프론트엔드 개발 직무에 대한 전문성을 쌓고 있습니다. 
+
 
 ## 🧰 Skills
 
 ### 💻 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### 🛠️ Tools & DevOps
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 💼 Projects
 
-### 🎨 **Portfolio Website**
-개인 포트폴리오 사이트로, 반응형 디자인 및 깔끔한 애니메이션 구현에 중점을 두었습니다.
+### 🖼️ **이미지 캡셔닝 (Image Captioning)**
+Seq2Seq 구조로 이미지에 대한 설명 문장을 생성하는 딥러닝 프로젝트입니다.
 
-- 🛠️ Stack: React, TypeScript, Framer Motion, TailwindCSS
+- 🛠️ Stack: Python, PyTorch  
 - 📌 기능:
-  - 페이지 전환 애니메이션
-  - 다크 모드 지원
-- 🔗 [GitHub](https://github.com/your-username/portfolio) | [Live Demo](https://your-portfolio.vercel.app)
+  - ResNet + LSTM 구조로 캡션 생성
+  - BLEU score로 성능 평가  
+- 🔗 [GitHub](https://github.com/your-username/image-captioning)
 
 ---
 
-### 🛒 **Mini Commerce**
-React 기반의 쇼핑몰 SPA 프로젝트입니다. REST API를 활용하여 상품 조회 및 장바구니 기능 구현.
+### 📝 **Java 폼 태그 처리**
+JSP 기반으로 사용자 입력을 처리하고 업로드 파일을 서버에 저장하는 프로젝트입니다.
 
-- 🛠️ Stack: React, Zustand, Styled-Components, Axios
+- 🛠️ Stack: Java, JSP, Apache Tomcat  
 - 📌 기능:
-  - 상품 목록/상세 페이지
-  - 장바구니 추가/삭제/결제 흐름
-- 🔗 [GitHub](https://github.com/your-username/mini-commerce) | [Demo](https://mini-commerce.vercel.app)
+  - 다양한 `<form>` 입력값 처리
+  - 파일 업로드 및 DTO 저장
+  - 결과 페이지 동적 출력  
+- 🔗 [GitHub](https://github.com/your-username/java-form)
 
 ---
 
-### 🗂️ **Notion Clone**
-Firebase를 이용해 실시간 협업이 가능한 노션 클론 웹앱을 개발했습니다.
+### 🎶 **관심사 소개 웹페이지**
+이벤트 함수와 jQuery를 활용해 관심사를 소개하는 동적 웹 페이지를 구현했습니다.
 
-- 🛠️ Stack: React, Firebase, TailwindCSS
+- 🛠️ Stack: HTML, CSS, JavaScript, jQuery  
 - 📌 기능:
-  - 실시간 데이터 동기화
-  - 페이지 중첩/트리 구조 지원
-- 🔗 [GitHub](https://github.com/your-username/notion-clone)
+  - 이미지 마우스 오버 확대
+  - 버튼 클릭 시 텍스트 변경
+  - 순수 JS 함수로 DOM 제어 및 출력  
+- 🔗 [GitHub](https://github.com/your-username/interest-page)
 
----
-
-## 📝 Blog & Activity
-
-- 📘 [Velog @your-id](https://velog.io/@your-id)
-- 📚 [기술 면접 정리](https://github.com/your-username/interview-notes)
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourname  
-- 🖥 Portfolio: https://your-portfolio.vercel.app  
-
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+- 📧 Email: dlekgus27@duksung.ac.kr
+- 💼 LinkedIn: https://linkedin.com/in/dahyun-lee  
+- 🖥 Portfolio: https://your-portfolio.vercel.app
