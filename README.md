@@ -106,5 +106,3 @@ jQuery와 순수 JavaScript를 활용한 동적인 웹 페이지입니다.
 ## 📫 Contact
 
 - 📧 Email: dlekgus27@duksung.ac.kr
-- 💼 LinkedIn: https://linkedin.com/in/dahyun-lee  
-- 🖥 Portfolio: https://your-portfolio.vercel.app
