@@ -27,7 +27,7 @@ Seq2Seq 구조로 이미지에 대한 설명 문장을 생성하는 딥러닝 �
 - 📌 기능:
   - ResNet + LSTM 구조로 캡션 생성
   - BLEU score로 성능 평가  
-- 🔗 [GitHub](https://github.com/your-username/image-captioning)
+- 🔗 [GitHub](https://github.com/xxeionw/imageCaptioning.git)
 
 ---
 
@@ -39,7 +39,7 @@ JSP 기반으로 사용자 입력을 처리하고 업로드 파일을 서버에 
   - 다양한 `<form>` 입력값 처리
   - 파일 업로드 및 DTO 저장
   - 결과 페이지 동적 출력  
-- 🔗 [GitHub](https://github.com/your-username/java-form)
+- 🔗 [GitHub](https://github.com/xxeionw/java_form.git)
 
 ---
 
@@ -51,7 +51,7 @@ JSP 기반으로 사용자 입력을 처리하고 업로드 파일을 서버에 
   - 이미지 마우스 오버 확대
   - 버튼 클릭 시 텍스트 변경
   - 순수 JS 함수로 DOM 제어 및 출력  
-- 🔗 [GitHub](https://github.com/your-username/interest-page)
+- 🔗 [GitHub](https://github.com/xxeionw/Introduction_WebDesign.git)
 
 
 ---
